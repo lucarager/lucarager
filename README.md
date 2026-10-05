@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Luca 👋
 
-<!--
-**lucarager/lucarager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer, product designer, mod author, and aspiring game developer in Seattle. 
 
-Here are some ideas to get you started:
+Now: Alexa+ at Amazon. I lead frontend for Personality & Expression.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before: Microsoft, where I architected XDS, Xbox's first design system, and built Mixer, its live streaming platform.
+
+Before that, I was a founding member of Beam.
+
+On the side: Open-source mods for Cities: Skylines II, played by 100K+ people.
+Network Tools: Precise editing for roads, rail, paths and waterways, with interactive 3D handles and real-time previews.
+Platter: A zoning overhaul that lets you place parcels using vanilla zoning blocks.
+And more. Check out my repos!
